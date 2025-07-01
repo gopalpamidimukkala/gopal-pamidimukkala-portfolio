@@ -88,7 +88,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Rishav Chanda</Logo>
+        <Logo>Gopal Pamidimukkala</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -97,20 +97,14 @@ const Footer = () => {
           <NavLink href="#Education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target="display">
-            <FacebookIcon />
-          </SocialMediaIcon>
           <SocialMediaIcon href={Bio.twitter} target="display">
             <TwitterIcon />
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display">
-            <InstagramIcon />
-          </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Rishav Chanda. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Gopal Pamidimukkala . All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
