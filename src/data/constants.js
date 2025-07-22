@@ -8,7 +8,7 @@ export const Bio = {
     "I build. I ship. I debug. I learn. Not aiming for perfect — just better than the last version of me. I code with curiosity, break things often, and grow with every bug, commit, and late-night fix. This portfolio is more than a showcase — it’s my journey in progress.",
   github: "https://github.com/gopalpamidimukkala",
   resume:
-    "https://drive.google.com/file/d/1fUcqz1226VJMXtNqoyNd-gE8-kenYrfH/view?usp=sharing",
+    "https://drive.google.com/file/d/1i8c-1y0W3xkZn8AF81kCPMZ9WETanpEL/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/gopalpamidimukkala/",
   twitter: "https://x.com/g0pal_tw",
   // insta: "https://www.instagram.com/gopal__ins/",
