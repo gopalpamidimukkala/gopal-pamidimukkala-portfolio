@@ -104,11 +104,11 @@ export const skills = [
   {
     title: "DevOps",
     skills: [
-      // {
-      //   name: "AWS",
-      //   image:
-      //     "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-      // },
+      {
+        name: "AWS",
+        image:
+          "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+      },
       // {
       //   name: "Google Cloud",
       //   image:
@@ -119,25 +119,25 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
       },
-      // {
-      //   name: "Jenkins",
-      //   image:
-      //     "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
-      // },
+      {
+        name: "Azure",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png",
+      },
       {
         name: "Nginx",
         image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
       },
-      // {
-      //   name: "Grafana",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-      // },
-      // {
-      //   name: "Kubernetes",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
-      // },
+      {
+        name: "Digital Ocean",
+        image:
+          "https://w7.pngwing.com/pngs/410/265/png-transparent-digitalocean-icon-hd-logo-thumbnail.png",
+      },
+      {
+        name: "Kubernetes",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
+      },
       // {
       //   name: "Prometheus",
       //   image:
@@ -159,9 +159,9 @@ export const skills = [
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
-        name: "Netlify",
+        name: "Slack",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPlbD42KHzVMn8SG2t54umtxYfOz2Mcwm8w&s",
       },
       {
         name: "Vercel",
