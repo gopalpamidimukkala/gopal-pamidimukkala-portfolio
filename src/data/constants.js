@@ -77,9 +77,9 @@ export const skills = [
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0GotAGXrAE49WpZlOvndF5w99JWfOEo00Q&s",
       },
       {
-        name: "NeonDB",
+        name: "Prisma",
         image:
-          "https://neon.com/favicon/favicon.png",
+          "https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png",
       },
       {
         name: "MySQL",
