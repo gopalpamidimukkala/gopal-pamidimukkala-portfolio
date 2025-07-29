@@ -10,7 +10,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1i8c-1y0W3xkZn8AF81kCPMZ9WETanpEL/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/gopalpamidimukkala/",
-  twitter: "https://x.com/g0pal_tw",
+  twitter: "https://x.com/pgopal_tw",
   // insta: "https://www.instagram.com/gopal__ins/",
 };
 
