@@ -310,6 +310,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 1,
+    title: "PhotoAI",
+    // date: "Apr 2023 - May 2023",
+    description:
+      "AI-powered image generation platform with custom LoRA model Generation to create Customized Images",
+    image:
+      "https://github.com/gopalpamidimukkala/portifolio-pics/blob/main/Screenshot%202025-08-27%20at%2014.41.35.png?raw=true",
+    tags: ["NEXT.JS", "PostgreSQL", "Bun.Js", "Tailwind css", "TurboRepo","Prisma","ShadCn"],
+    category: "web app",
+
+    webapp: "https://photo.pgopal.in/",
+  },
+  {
     id: 11,
     title: "Excelidraw Clone",
     // date: "Jan 2024 - Dec 2023",
@@ -348,50 +361,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/gopalpamidimukkala/AI-PR-BOT",
     webapp: "https://ai-pr-8f0nlkw4c-gopal-pamidimukkalas-projects.vercel.app/login",
-  },
-  {
-    id: 0,
-    title: "Website KHIT",
-    // date: "Apr 2023 - May 2023",
-    description:
-      "Created a responsive college website using WordPress for KHIT Guntur to showcase institutional updates and information. Developed a custom CMS portal using HTML, Bootstrap, Java, and MySQL to manage academic content and student materials. The system improved accessibility and streamlined internal workflows for faculty and students.",
-    image:
-      "https://github.com/gopalpamidimukkala/portifolio-pics/blob/main/Screenshot%202025-07-01%20at%2010.59.11.png?raw=true",
-    tags: ["HTML", "MySql", "Java", "Bootstrap", "Hostinger"],
-    category: "web app",
-
-    webapp: "https://khitguntur.ac.in/",
-  },
-  {
-    id: 1,
-    title: "CMS Portal DIET",
-    // date: "Oct 2022 - Jan 2023",
-    description:
-      "Contributed to enhancing the college’s CMS portal using Java, MySQL, and HTML under faculty guidance.",
-    image:
-      "https://github.com/gopalpamidimukkala/portifolio-pics/blob/main/Screenshot%202025-07-01%20at%2011.02.15.png?raw=true",
-    tags: [
-      "Java",
-      "MySQL",
-      "HTML",
-      "Sessions",
-    ],
-    category: "web app",
-
-    webapp: "https://dietportal.in:8443/ExamClick/",
-  },
-  {
-    id: 4,
-    title: "Rajiv Gandhi Park Digital Ticket System",
-    // date: "Jul 2021",
-    description:
-      "Built a digital ticketing system for Rajiv Gandhi Park, Vijayawada, to replace manual entry processes. Developed backend APIs using PHP to handle ticket generation, tracking, and reporting. The system improved operational efficiency and enabled real-time access to visitor data for staff.",
-    image:
-      "https://assets.thehansindia.com/h-upload/2023/03/27/1343813-rk.webp",
-    tags: ["php", "Php My Admin", "Hostinger"],
-    category: "web app",
-    github: "",
-    webapp: "https://vijayawadatourism.com/rajiv-gandhi-park-vijayawada",
   },
 ];
 
