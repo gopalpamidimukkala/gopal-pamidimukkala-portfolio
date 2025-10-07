@@ -84,14 +84,14 @@ export const skills = [
         name: "WebSockets",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0GotAGXrAE49WpZlOvndF5w99JWfOEo00Q&s",
       },
-      {
-        name: "GoLang",
-        image: "https://kislayverma.com/wp-content/uploads/2020/07/gopher-go.jpg",
-      },
-      {
-        name: "Rust",
-        image: "https://www.clipartmax.com/png/middle/165-1655188_rust-honeycomb-by-vitalfyre-rust-logo-black-and-white.png",
-      },
+      // {
+      //   name: "GoLang",
+      //   image: "https://kislayverma.com/wp-content/uploads/2020/07/gopher-go.jpg",
+      // },
+      // {
+      //   name: "Rust",
+      //   image: "https://www.clipartmax.com/png/middle/165-1655188_rust-honeycomb-by-vitalfyre-rust-logo-black-and-white.png",
+      // },
       
     ],
   },
